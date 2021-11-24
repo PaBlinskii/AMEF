@@ -1,0 +1,5 @@
+SACAR PROMEDIOS PHP:
+
+$media = array_sum($numeros)/count($numeros);
+
+
